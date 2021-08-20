@@ -3,6 +3,7 @@
       "meregetechc": [
      {
         "id": 1,
+        "lote":"",  
         "numero": "",
         "texto": "",
         "banner": "",
@@ -12,8 +13,8 @@
        "meregetechr": [
      {
         "id": 1,
+        "lote": "",
         "numero": "",
-        "campanha": "",
         "status": "",
         "resposta": ""
       }
