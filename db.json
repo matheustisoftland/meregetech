@@ -1,6 +1,6 @@
 {
      
-      "meregetechc": [
+      "lote1c": [
      {
         "id": 1,
         "lote":"",  
@@ -10,7 +10,47 @@
         "avatar": ""
       }
     ],
-       "meregetechr": [
+       "lote2c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote3c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote4c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+      "lote5c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+ "lote6c": [
      {
         "id": 1,
         "lote": "",
@@ -19,6 +59,353 @@
         "resposta": ""
       }
     ]
+
+ "lote7c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote8c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote9c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+"lote10c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+   "lote11c": [
+     {
+        "id": 1,
+        "lote":"",  
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "lote12c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote13c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote14c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+      "lote15c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+ "lote16c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+
+ "lote17c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote18c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote19c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+"lote20c": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+
+
+  "lote1r": [
+     {
+        "id": 1,
+        "lote":"",  
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "lote2r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote3r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote4r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+      "lote5r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+ "lote6r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+
+ "lote7r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote8r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote9r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+"lote10r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+   "lote11r": [
+     {
+        "id": 1,
+        "lote":"",  
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "lote12r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote13r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+      "lote14r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+      "lote15r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+ "lote16r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
+
+ "lote17r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote18r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+ "lote19r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+"lote20r": [
+     {
+        "id": 1,
+        "lote": "",
+        "numero": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+
+
+
+
+  
 
      
 }
